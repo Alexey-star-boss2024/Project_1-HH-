@@ -46,7 +46,7 @@
 -   Отработка методов преобразования и очистки данных; 
 -   Работа с GitHub.
 
-:arrow_up:[к оглавлению][(https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Оглавление)
+:arrow_up:[к оглавлению]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Оглавление)
 
 <br>
 
