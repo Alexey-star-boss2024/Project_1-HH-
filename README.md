@@ -76,7 +76,7 @@
 <br>
 
 ### Результаты:
-Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter"](https://github.com/Alexey-star-boss2024/Project_1-HH-//blob/main/PROJECT-1/Project-1.ipynb).
+Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter"]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/Project_1(HH).ipynb.
 
 <br>
 
