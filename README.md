@@ -12,8 +12,6 @@
 
 [5. Результаты]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Результаты
 
-  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1/Project-1.ipynb)
-
 [6. Выводы]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Выводы  
 
 ## Описание проекта
@@ -92,5 +90,5 @@
 Таким образом, первоначальный датасет подготовлен для дальнейшего использования при построении требуемой модели.
 Также, после преобразования исходного датасета получен выигрыш занимаемого места новыми данными - новые данные занимают места в 32 раза.
 
-:arrow_up:[к оглавлению](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Оглавление)
+:arrow_up:[к оглавлению]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Оглавление)
 
