@@ -2,7 +2,7 @@
 <center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
 
 ## Оглавление
-[1. Описание проекта] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#какой-кейс-решаем
+[1. Описание проекта] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Описание проекта
 
 [2. Какой кейс решаем?] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#какой-кейс-решаем
 
