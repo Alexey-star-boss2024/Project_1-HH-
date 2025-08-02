@@ -4,7 +4,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Описание-проекта)#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Краткая-информация-о-данных)
 
