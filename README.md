@@ -6,7 +6,7 @@
 
 [2. Какой кейс решаем?](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Какой-кейс-решаем
 
-[3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Краткая-информация-о-данных
+[3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Краткая информация о данных
 
 [4. Этапы работы над проектом](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Этапы-работы-над-проектом
 
