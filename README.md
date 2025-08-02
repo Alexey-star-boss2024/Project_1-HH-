@@ -62,19 +62,7 @@
 <br>
 
 ### Требования для работы
-*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
-*   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt);
-*   Установка всех недостающих дополнительных компонент:
-
-            pip install -r requirements.txt
-  
-*   Для выгрузки исходного датасета, применил надстройку GitHub - [Git LFS](https://git-lfs.github.com/). 
-
-    Документация по использованию Git LFS - [Docs Git LFS](https://github.com/git-lfs/git-lfs/tree/main/docs)
-
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Оглавление)
-
-<br>
+*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode).
 
 ### Этапы работы над проектом
 * Ознакомление с описанием задачи;
@@ -90,7 +78,7 @@
 <br>
 
 ### Результаты:
-Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1/Project-1.ipynb).
+Проект c корректным выполнением кейса ["Анализ резюме из HeadHunter"](https://github.com/Alexey-star-boss2024/Project_1-HH-//blob/main/PROJECT-1/Project-1.ipynb).
 
 <br>
 
