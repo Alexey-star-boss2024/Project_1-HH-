@@ -2,19 +2,19 @@
 <center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
 
 ## Оглавление
-[1. Описание проекта] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Описание проекта
+[1. Описание проекта] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Описание-проекта
 
 [2. Какой кейс решаем?] https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#какой-кейс-решаем
 
-[3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Краткая информация о данных
+[3. Краткая информация о данных]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Краткая информация о данных
 
-[4. Этапы работы над проектом](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Этапы-работы-над-проектом
+[4. Этапы работы над проектом]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Этапы-работы-над-проектом
 
-[5. Результаты](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Результаты
+[5. Результаты]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md#Результаты
 
   >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1/Project-1.ipynb)
 
-[6. Выводы](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md) #Выводы  
+[6. Выводы]https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md #Выводы  
 
 ## Описание проекта
 На основе базы резюме, выгруженной с сайта поиска вакансий HH.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
