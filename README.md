@@ -2,23 +2,19 @@
 <center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Описание-проекта)#Описание-проекта)
+[1. Описание проекта](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1)#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом]((https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Результаты)
+[5. Результаты](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Результаты)
 
   >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1/Project-1.ipynb)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Выводы)  
-
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Фидбэк-от-ментора)
-
-<br>
+[6. Выводы](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md) #Выводы)  
 
 ## Описание проекта
 На основе базы резюме, выгруженной с сайта поиска вакансий HH.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
@@ -52,7 +48,7 @@
 -   Отработка методов преобразования и очистки данных; 
 -   Работа с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexey-star-boss2024/Project_1-HH-/edit/master/README.md)#Оглавление)
 
 <br>
 
@@ -71,9 +67,7 @@
 *   Установка всех недостающих дополнительных компонент:
 
             pip install -r requirements.txt
-
-*   В проекте используется модуль <font color='LightSeaGreen'>**Plotly.io**</font> для сохранения диаграмм и графиков в файл, для сохранения доступны 2 "движка", предварительно нужно установить любой, на ваш выбор, чтобы механизм экспорта на диск работал:
-      
+  
 *   Для выгрузки исходного датасета, применил надстройку GitHub - [Git LFS](https://git-lfs.github.com/). 
 
     Документация по использованию Git LFS - [Docs Git LFS](https://github.com/git-lfs/git-lfs/tree/main/docs)
