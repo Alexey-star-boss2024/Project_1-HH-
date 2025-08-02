@@ -4,7 +4,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Описание-проекта
 
-[2. Какой кейс решаем?](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Какой-кейс-решаем
+[2. Какой кейс решаем?](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#какой-кейс-решаем
 
 [3. Краткая информация о данных](https://github.com/Alexey-star-boss2024/Project_1-HH-/blob/master/README.md)#Краткая информация о данных
 
