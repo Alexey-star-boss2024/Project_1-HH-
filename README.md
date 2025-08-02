@@ -1,12 +1,5 @@
 # Проект 1. Анализ резюме из HeadHunter 
-<table>
-  <tr style="vertical-align:middle">
-    <th><img src = 'https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019'></th>
-    <!-- <th><img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg></th> -->
-    <!-- <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th> -->
-    <th height=30><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3736-6663-4331-b065-623334663336/SkillFactory.svg height=20></th>
-  </tr>
-</table>
+<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
 
 ## Оглавление
 [1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Описание-проекта)
